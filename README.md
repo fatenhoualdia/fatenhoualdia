@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **React js and Next js**
 
-- 👨‍💻 All of my projects are available at [https://github.com/fatenhoualdia(https://github.com/fatenhoualdia)
+- 👨‍💻 All of my projects are available at [https://github.com/fatenhoualdia(https://github.com/fatenhoualdia)]
 
 - 💬 Ask me about **programming languages or frameworks**
 
