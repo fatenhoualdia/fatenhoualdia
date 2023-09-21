@@ -10,7 +10,6 @@
 
 - 📫 How to reach me **fatenkhoualdia@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/fatenhoualdia/Cv.faten/blob/main/pdf_20230621_123120_0000.pdf](https://github.com/fatenhoualdia/Cv.faten/blob/main/pdf_20230621_123120_0000.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
